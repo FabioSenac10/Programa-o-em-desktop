@@ -1,0 +1,13 @@
+.nav1{
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    font-size: 1vh;
+}
+p1{
+    font-size: 1vb;
+    color: blue;
+}
